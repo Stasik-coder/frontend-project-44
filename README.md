@@ -4,7 +4,7 @@
 
 # Brain Games
 
-[![Node CI](https://github.com/username/project-name/actions/workflows/nodejs.yml/badge.svg)](https://github.com/username/project-name/actions/workflows/nodejs.yml)
+[![Node CI](https://github.com/Stasik-coder/frontend-project-44/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Stasik-coder/frontend-project-44/actions/workflows/nodejs.yml)
 
 ## Installation
 ```bash
