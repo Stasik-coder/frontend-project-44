@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync'
 
-const getAnswer = (question) => readlineSync.question(question)
+const getAnswer = question => readlineSync.question(question)
 
 const getName = () => {
   const name = getAnswer('May I have your name?')
