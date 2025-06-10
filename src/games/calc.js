@@ -9,7 +9,6 @@ const getQuestionAndAnswer = () => {
   const leftOperand = randomizer();
   const rightOperand = randomizer();
   const operator = operators[randomizer(3)];
-  // const question = `${leftOperand} ${operator} ${rightOperand}`;
   if (operator === '+') {
     const question = `${leftOperand} + ${rightOperand}`;
     const correctAnswer = leftOperand + rightOperand;
